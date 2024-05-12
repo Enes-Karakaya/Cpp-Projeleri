@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\13.Hafta\\siralama_algoritmasi_baloncuk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A118FF-6171-4A66-80D1-11EE3EAA8CAC}|siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\13.Hafta\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A118FF-6171-4A66-80D1-11EE3EAA8CAC}|siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.vcxproj|solutionrelative:siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "siralama_algoritmasi_baloncuk.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\13.Hafta\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp",
+              "RelativeDocumentMoniker": "siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\13.Hafta\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp",
+              "RelativeToolTip": "siralama_algoritmasi_baloncuk\\siralama_algoritmasi_baloncuk.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T22:52:28.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

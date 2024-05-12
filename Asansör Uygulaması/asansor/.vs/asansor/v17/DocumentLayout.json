@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\6.Hafta\\asansor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C3B3F0-383A-4BD5-9F2D-8948698D6DA7}|asansor\\asansor.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\6.Hafta\\asansor\\asansor\\asansor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C3B3F0-383A-4BD5-9F2D-8948698D6DA7}|asansor\\asansor.vcxproj|solutionrelative:asansor\\asansor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asansor.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\6.Hafta\\asansor\\asansor\\asansor.cpp",
+              "RelativeDocumentMoniker": "asansor\\asansor.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\6.Hafta\\asansor\\asansor\\asansor.cpp",
+              "RelativeToolTip": "asansor\\asansor.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T22:46:57.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

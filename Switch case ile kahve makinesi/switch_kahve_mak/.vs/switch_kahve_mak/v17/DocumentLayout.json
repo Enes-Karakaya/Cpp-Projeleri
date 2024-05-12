@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\switch_kahve_mak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C6AD5-4FE4-4547-83B6-E99AE2E5DB65}|switch_kahve_mak\\switch_kahve_mak.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\switch_kahve_mak\\switch_kahve_mak\\switch_kahve_mak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE6C6AD5-4FE4-4547-83B6-E99AE2E5DB65}|switch_kahve_mak\\switch_kahve_mak.vcxproj|solutionrelative:switch_kahve_mak\\switch_kahve_mak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switch_kahve_mak.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\switch_kahve_mak\\switch_kahve_mak\\switch_kahve_mak.cpp",
+              "RelativeDocumentMoniker": "switch_kahve_mak\\switch_kahve_mak.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\switch_kahve_mak\\switch_kahve_mak\\switch_kahve_mak.cpp",
+              "RelativeToolTip": "switch_kahve_mak\\switch_kahve_mak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T22:16:44.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

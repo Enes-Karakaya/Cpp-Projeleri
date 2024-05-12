@@ -1,0 +1,5 @@
+﻿  faktoriyel.cpp
+C:\Users\Enes Karakaya\Desktop\Github\Programlama Temelleri\6.Hafta\faktoriyel\faktoriyel\faktoriyel.cpp(16,13): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  ('/faktoriyel.cpp' kaynak dosyası derleniyor)
+  
+  faktoriyel.vcxproj -> C:\Users\Enes Karakaya\Desktop\Github\Programlama Temelleri\6.Hafta\faktoriyel\Debug\faktoriyel.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\for_tek_sayilari_bulan_program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D85541-6C60-4F45-84A4-D9DD0C6EC276}|for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14D85541-6C60-4F45-84A4-D9DD0C6EC276}|for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.vcxproj|solutionrelative:for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for_tek_sayilari_bulan_program.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp",
+              "RelativeDocumentMoniker": "for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\5.Hafta\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp",
+              "RelativeToolTip": "for_tek_sayilari_bulan_program\\for_tek_sayilari_bulan_program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T22:08:03.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

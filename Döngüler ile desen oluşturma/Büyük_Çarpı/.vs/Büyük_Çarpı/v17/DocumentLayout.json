@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\12.Hafta\\B\u00FCy\u00FCk_\u00C7arp\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61EF5D0-126B-4A22-B732-C799BD48212F}|B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\12.Hafta\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E61EF5D0-126B-4A22-B732-C799BD48212F}|B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.vcxproj|solutionrelative:B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u00FCy\u00FCk_\u00C7arp\u0131.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\12.Hafta\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp",
+              "RelativeDocumentMoniker": "B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\12.Hafta\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp",
+              "RelativeToolTip": "B\u00FCy\u00FCk_\u00C7arp\u0131\\B\u00FCy\u00FCk_\u00C7arp\u0131.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T22:54:17.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

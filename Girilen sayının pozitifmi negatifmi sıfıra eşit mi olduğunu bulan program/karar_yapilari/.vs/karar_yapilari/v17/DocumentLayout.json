@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\3.Hafta\\karar_yapilari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5E2EAF-B7E7-4680-8A02-C23F0B51BCA4}|karar_yapilari\\karar_yapilari.vcxproj|C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\3.Hafta\\karar_yapilari\\karar_yapilari\\karar_yapilari.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5E2EAF-B7E7-4680-8A02-C23F0B51BCA4}|karar_yapilari\\karar_yapilari.vcxproj|solutionrelative:karar_yapilari\\karar_yapilari.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "karar_yapilari.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\3.Hafta\\karar_yapilari\\karar_yapilari\\karar_yapilari.cpp",
+              "RelativeDocumentMoniker": "karar_yapilari\\karar_yapilari.cpp",
+              "ToolTip": "C:\\Users\\Enes Karakaya\\Desktop\\Github\\Programlama Temelleri\\3.Hafta\\karar_yapilari\\karar_yapilari\\karar_yapilari.cpp",
+              "RelativeToolTip": "karar_yapilari\\karar_yapilari.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T21:48:46.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
